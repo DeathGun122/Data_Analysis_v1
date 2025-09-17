@@ -1,5 +1,5 @@
 ## Description :
-Data Science basics covered with Python and other Libraries. SQL and statistical methods covered in detail.
+Data Science basics covered with Python and other Libraries.
 
 ## Topics :
 * Python basics & syntax
@@ -11,14 +11,11 @@ Data Science basics covered with Python and other Libraries. SQL and statistical
 * Scipy
 * Matplotlib
 * Seaborn
-* SQL
-* DSA
 * Statistics
 * Real-world mini projects
-* Projects on all topics
 
 ## Tech Stack :
-Python, Jupyter Notebook, Numpy, Pandas, Scipy, Matplotlib, Seaborn, SQL, DSA
+Python, Jupyter Notebook, Numpy, Pandas, Scipy, Matplotlib, Seaborn
 
 ## Duration :
 23.08.2025 - Present
